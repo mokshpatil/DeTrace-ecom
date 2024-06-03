@@ -1,0 +1,2 @@
+# DeTrace-ecom
+learning django
